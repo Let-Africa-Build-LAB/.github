@@ -1,51 +1,38 @@
-# Contributing to Let Africa Build (LAB)
+# Contributing to Let Africa Build
 
-Thank you for your interest in contributing to the LAB ecosystem.
+Welcome — and thank you for your interest in contributing to LAB.
 
-Let Africa Build (LAB) is building open-source developer infrastructure across the Bitcoin ecosystem, with a focus on empowering African builders and technical founders.
+## How to Contribute
 
-## Ways to Contribute
+### Suggest a Resource
+Open an issue using the **Resource Suggestion** template to recommend developer resources for our curated collection.
 
-You can contribute by:
+### Report a Problem
+Open an issue using the **Bug Report** template with clear steps to reproduce.
 
-- building open-source infrastructure projects
-- improving documentation
-- adding developer resources
-- contributing templates and starter kits
-- helping maintain ecosystem repositories
-- participating in LAB builder programs
+### Propose a Feature
+Open an issue using the **Feature Request** template describing the use case and proposed solution.
 
-## Builder Projects
-
-Builders interested in the LAB Open Source Builders Fund should submit a proposal through the official application form or the appropriate GitHub issue template where applicable.
-
-Projects should generally:
-
-- be open source
-- have a publicly accessible repository
-- demonstrate meaningful technical progress
-- contribute to Bitcoin infrastructure, developer tooling, wallet infrastructure, payment systems, or Layer-2 experimentation
-
-## Contribution Standards
-
-We value contributions that are:
-
-- technically relevant
-- clearly documented
-- open and collaborative
-- aligned with the LAB ecosystem mission
-
-## Pull Request Process
-
+### Submit a Pull Request
 1. Fork the repository
-2. Create a branch for your changes
-3. Make your changes clearly and cleanly
-4. Submit a pull request with a concise description
+2. Create a feature branch (`git checkout -b feat/your-change`)
+3. Make your changes
+4. Commit using [Conventional Commits](https://www.conventionalcommits.org/) format:
+   - `feat:` for new features
+   - `fix:` for bug fixes
+   - `docs:` for documentation changes
+   - `chore:` for maintenance tasks
+5. Push to your fork and open a pull request
+6. Describe what changed and why
 
-## Communication
+### Commit Messages
+Use clear, descriptive commit messages. Examples:
+- `docs: add Lightning resources to developer guide`
+- `feat: add month-3 curriculum module`
+- `fix: correct broken link in README`
 
-Please be respectful and constructive in all discussions.
+## Questions?
+Open an issue — we're happy to help.
 
-For broader ecosystem questions, visit:
-
-https://www.letafricabuild.com
+## Code of Conduct
+All contributors are expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
