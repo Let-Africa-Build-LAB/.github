@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Let Africa Build Website
-    url: https://www.letafricabuild.com
-    about: Visit the LAB website for general information and ecosystem updates.
+  - name: Ask a Question
+    url: https://github.com/orgs/Let-Africa-Build-LAB/discussions
+    about: Ask questions and start discussions here
